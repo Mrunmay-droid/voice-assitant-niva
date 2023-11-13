@@ -1,1 +1,2 @@
-# voice-assitant-niva
+# Niva
+AI Voice Asistant using python
