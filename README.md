@@ -1,2 +1,2 @@
 # Niva
-AI Voice Asistant using python
+AI Voice Assistant using python
