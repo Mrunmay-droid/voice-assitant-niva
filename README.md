@@ -1,2 +1,2 @@
 # Niva
-AI Voice Assistant using python
+ An AI Voice Assistant built using python
